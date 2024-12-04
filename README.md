@@ -23,19 +23,13 @@ This repository uses a **feature-specific branch structure** for collaborative d
 ---
 ## 📸 Screenshots
 
-### Login Screen
-<img src="Images/IMG-20241201-WA0002.jpg" alt="Login Screen" width="300"/>
-
-### Home Screen
+### Sign-Up Form
 <img src="Images/IMG-20241201-WA0003.jpg" alt="Home Screen" width="300"/>
 
-### Sign-Up Form
+### Firestore Integration
 <img src="Images/IMG-20241201-WA0004.jpg" alt="Sign-Up Form" width="300"/>
 
-### Firestore Integration
-<img src="Images/IMG-20241201-WA0005.jpg" alt="Firestore Integration" width="300"/>
-
-### Database View
+### SignUp User List
 <img src="Images/IMG-20241201-WA0006.jpg" alt="Database View" width="300"/>
 
 ### Additional Feature

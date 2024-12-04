@@ -1,6 +1,6 @@
-# Farukh App Project
+# Firebase Auth and Firestore App Project
 
-Welcome to the **Farukh App Project** repository! This project is a collaborative effort by our team to create a beautiful and functional SwiftUI app integrated with Firebase for authentication and Firestore for data storage.
+Welcome to the **Firebase Auth and Firestore App Project** repository! This project is a collaborative effort by our team to create a beautiful and functional SwiftUI app integrated with Firebase for authentication and Firestore for data storage.
 
 ---
 

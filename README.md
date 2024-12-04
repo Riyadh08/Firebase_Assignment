@@ -21,6 +21,25 @@ This repository uses a **feature-specific branch structure** for collaborative d
 - **Farukh** - Sets up Firestore database and manages data operations.
 
 ---
+## 📸 Screenshots
+
+### Login Screen
+<img src="Images/IMG-20241201-WA0002.jpg" alt="Login Screen" width="300"/>
+
+### Home Screen
+<img src="Images/IMG-20241201-WA0003.jpg" alt="Home Screen" width="300"/>
+
+### Sign-Up Form
+<img src="Images/IMG-20241201-WA0004.jpg" alt="Sign-Up Form" width="300"/>
+
+### Firestore Integration
+<img src="Images/IMG-20241201-WA0005.jpg" alt="Firestore Integration" width="300"/>
+
+### Database View
+<img src="Images/IMG-20241201-WA0006.jpg" alt="Database View" width="300"/>
+
+### Additional Feature
+<img src="Images/IMG-20241201-WA0007.jpg" alt="Additional Feature" width="300"/>
 
 ## 🚀 Getting Started
 
